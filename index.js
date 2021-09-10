@@ -73,3 +73,14 @@ function hit() {
 // for (let i = 0; i < sentence.length; i++) {
 //     greetingEl.textContent += sentence[i] + " "
 // }
+
+
+
+// let hands = ["rock", "paper", "scissor"]
+
+// function getHand() {
+//     let randomIndex = Math.floor( Math.random() * 3)
+//     return hands[randomIndex]
+// }
+
+// console.log( getHand() )
