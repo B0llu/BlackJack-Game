@@ -1,10 +1,10 @@
-body{
+body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-image: url(https://as2.ftcdn.net/v2/jpg/00/93/36/49/1000_F_93364974_eoos8QGsa9CzTa5hGRRL6EutXMSKgdOA.jpg);
     background-size: cover;
     text-align: center;
     padding: 20px;
-    margin:0;
+    margin: 0;
     color: white;
     font-weight: bold;
 }
@@ -18,7 +18,7 @@ h1 {
 }
 
 .start {
-    background: radial-gradient(#2563EB,#4338CA);
+    background: radial-gradient(#2563EB, #4338CA);
     border: 1px solid black;
     border-radius: 5px;
     padding: 5px 10px;
@@ -26,7 +26,7 @@ h1 {
 }
 
 .hit {
-    background: radial-gradient(#2563EB,#4338CA);
+    background: radial-gradient(#2563EB, #4338CA);
     border: 1px solid black;
     border-radius: 5px;
     padding: 5px 41px;
