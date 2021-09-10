@@ -17,9 +17,19 @@ h1 {
     font-style: italic;
 }
 
-button {
+.start {
     background: radial-gradient(#2563EB,#4338CA);
     border: 1px solid black;
-    border-radius: 10px;
+    border-radius: 5px;
     padding: 5px 10px;
+    font-weight: bold;
+}
+
+.hit {
+    background: radial-gradient(#2563EB,#4338CA);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 41px;
+    font-weight: bold;
+    margin-top: 5px;
 }
