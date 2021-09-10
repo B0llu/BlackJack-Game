@@ -16,3 +16,10 @@ h1 {
 #message-el {
     font-style: italic;
 }
+
+button {
+    background: radial-gradient(#2563EB,#4338CA);
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
